@@ -1,0 +1,6 @@
+framework module Pods_automationWorkShopTests {
+  umbrella header "Pods-automationWorkShopTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
